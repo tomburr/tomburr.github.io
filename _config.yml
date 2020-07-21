@@ -2,3 +2,4 @@ name: Tom Burr
 markdown: kramdown
 theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
+google_analytics: UA-173117575-1
